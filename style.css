@@ -1,0 +1,23 @@
+#box{
+width: 150px;
+height: 200px;
+background: pink;
+margin-left: 40%;
+margin-top: 10%;
+transition-property: width,height,border-radius,background;
+transition-duration: 2s;
+}
+#box:hover{
+ width: 230px;
+height: 150px;
+border-radius: 80px;
+background: rgb(240, 62, 18);
+
+}
+#box p{
+text-align: center;
+margin-top: 20%;
+padding-top: 30%;
+font-size: 20px;
+font-family: Haettenschweiler; 
+}
