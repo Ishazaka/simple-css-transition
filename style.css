@@ -11,7 +11,7 @@ transition-duration: 2s;
  width: 230px;
 height: 150px;
 border-radius: 80px;
-background: rgb(240, 62, 18);
+background: linear-gradient(#e66465, #9198e5);
 
 }
 #box p{
